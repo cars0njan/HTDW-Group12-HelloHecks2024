@@ -1,0 +1,275 @@
+.carson {
+  background-color: #c5f1b5;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.carson .div {
+  background-color: #c5f1b5;
+  height: 1148px;
+  position: relative;
+  width: 393px;
+}
+
+.carson .nav-bar {
+  height: 124px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 1024px !important;
+  width: 393px !important;
+}
+
+.carson .small-logo-instance {
+  left: 111px !important;
+  position: absolute !important;
+  top: 45px !important;
+}
+
+.carson .others {
+  height: 104px;
+  left: 36px;
+  position: absolute;
+  top: 611px;
+  width: 327px;
+}
+
+.carson .overlap {
+  background-color: #fbffe1;
+  border-radius: 20px;
+  height: 104px;
+  position: relative;
+  width: 325px;
+}
+
+.carson .text-wrapper-2 {
+  color: #346e3a;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  width: 294px;
+}
+
+.carson .others-name {
+  color: #346e3a;
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 575px;
+  width: 237px;
+}
+
+.carson .linkedin {
+  height: 52px;
+  left: 36px;
+  position: absolute;
+  top: 929px;
+  width: 327px;
+}
+
+.carson .div-wrapper {
+  background-color: #fbffe1;
+  border-radius: 20px;
+  height: 52px;
+  position: relative;
+  width: 325px;
+}
+
+.carson .text-wrapper-3 {
+  color: #89b58d;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  width: 294px;
+}
+
+.carson .email {
+  height: 52px;
+  left: 36px;
+  position: absolute;
+  top: 854px;
+  width: 327px;
+}
+
+.carson .input {
+  background-color: #fbffe1;
+  border: none;
+  border-radius: 20px;
+  color: #346e3a;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 52px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  padding-left: 18px;
+  position: relative;
+  width: 325px;
+}
+
+.carson .instagram {
+  height: 52px;
+  left: 33px;
+  position: absolute;
+  top: 779px;
+  width: 327px;
+}
+
+.carson .contacts-name {
+  color: #346e3a;
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 743px;
+  width: 237px;
+}
+
+.carson .interests {
+  height: 74px;
+  left: 35px;
+  position: absolute;
+  top: 479px;
+  width: 327px;
+}
+
+.carson .overlap-2 {
+  background-color: #fbffe1;
+  border-radius: 20px;
+  height: 74px;
+  position: relative;
+  width: 325px;
+}
+
+.carson .interests-name {
+  color: #346e3a;
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 41px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 443px;
+  width: 237px;
+}
+
+.carson .school {
+  height: 74px;
+  left: 33px;
+  position: absolute;
+  top: 350px;
+  width: 327px;
+}
+
+.carson .school-name {
+  color: #346e3a;
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 314px;
+  width: 237px;
+}
+
+.carson .name {
+  height: 47px;
+  left: 33px;
+  position: absolute;
+  top: 248px;
+  width: 327px;
+}
+
+.carson .overlap-3 {
+  height: 47px;
+  position: relative;
+  width: 325px;
+}
+
+.carson .rectangle {
+  background-color: #fbffe1;
+  border-radius: 20px;
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 325px;
+}
+
+.carson .text-wrapper-4 {
+  color: #346e3a;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  width: 294px;
+}
+
+.carson .name-name {
+  color: #346e3a;
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 211px;
+  width: 237px;
+}
+
+.carson .splice {
+  color: #000000;
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 177px;
+  width: 237px;
+}
+
+.carson .text-wrapper-5 {
+  color: #346e3a;
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 77px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 129px;
+  white-space: nowrap;
+  width: 237px;
+}

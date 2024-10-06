@@ -1,0 +1,148 @@
+.home {
+  background-color: #c5f1b5;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home .div {
+  background-color: #c5f1b5;
+  height: 852px;
+  position: relative;
+  width: 393px;
+}
+
+.home .me-name {
+  height: 124px;
+  left: 50px;
+  position: absolute;
+  top: 488px;
+  width: 298px;
+}
+
+.home .overlap-group {
+  height: 124px;
+  position: relative;
+  width: 292px;
+}
+
+.home .click {
+  color: #000000;
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 42px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 82px;
+  width: 292px;
+}
+
+.home .rectangle {
+  background-color: #fcffe2;
+  border-radius: 90px;
+  box-shadow: 0px 5px 4px #00000040;
+  height: 89px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 264px;
+}
+
+.home .text-wrapper {
+  color: #000000;
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  left: 100px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+}
+
+.home .welcome {
+  color: #000000;
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 42px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  width: 292px;
+}
+
+.home .wifi {
+  height: 96px;
+  left: 78px;
+  position: absolute;
+  top: 355px;
+  width: 229px;
+}
+
+.home .reflect {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgba(101.82, 212.49, 112.88, 0) 0%, rgba(52.94, 110.49, 58.7, 0.85) 100%);
+  background-clip: text;
+  color: transparent;
+  filter: blur(2px);
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-fill-color: transparent;
+  top: 219px;
+  width: 292px;
+}
+
+.home .overlap {
+  height: 146px;
+  left: 50px;
+  position: absolute;
+  top: 71px;
+  width: 292px;
+}
+
+.home .text-wrapper-2 {
+  color: #346e3a;
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 62px;
+  width: 292px;
+}
+
+.home .logo {
+  height: 73px;
+  left: 100px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 91px;
+}
+
+.home .nav-bar {
+  height: 124px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 728px !important;
+  width: 393px !important;
+}

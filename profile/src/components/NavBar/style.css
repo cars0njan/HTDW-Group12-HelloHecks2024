@@ -1,0 +1,32 @@
+.nav-bar {
+  background-color: #e5c855;
+  border-radius: 370.5px/145px;
+  box-shadow: 0px -5px 4px #0000005e;
+  height: 290px;
+  position: relative;
+  width: 741px;
+}
+
+.nav-bar .search {
+  height: 35px;
+  left: 224px;
+  position: absolute;
+  top: 48px;
+  width: 35px;
+}
+
+.nav-bar .user {
+  height: 35px;
+  left: 477px;
+  position: absolute;
+  top: 46px;
+  width: 35px;
+}
+
+.nav-bar .home {
+  height: 50px;
+  left: 343px;
+  position: absolute;
+  top: 40px;
+  width: 50px;
+}

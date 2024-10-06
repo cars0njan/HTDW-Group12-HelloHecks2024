@@ -1,0 +1,138 @@
+.contacts {
+  background-color: #c5f1b5;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.contacts .div {
+  background-color: #c5f1b5;
+  height: 852px;
+  position: relative;
+  width: 393px;
+}
+
+.contacts .nav-bar {
+  height: 128px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 724px !important;
+  width: 393px !important;
+}
+
+.contacts .small-logo-instance {
+  left: 111px !important;
+  position: absolute !important;
+  top: 45px !important;
+}
+
+.contacts .text-wrapper-2 {
+  color: #346e3a;
+  font-family: "ADLaM Display", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 77px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 129px;
+  white-space: nowrap;
+  width: 237px;
+}
+
+.contacts .name {
+  background-color: #fbffe1;
+  border-radius: 20px;
+  height: 45px;
+  left: 33px;
+  position: absolute;
+  top: 208px;
+  width: 325px;
+}
+
+.contacts .frame {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 7px;
+  padding: 10px;
+  position: relative;
+  top: 3px;
+}
+
+.contacts .text-wrapper-3 {
+  color: #346e3a;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.contacts .frame-wrapper {
+  background-color: #fbffe1;
+  border-radius: 20px;
+  height: 45px;
+  left: 33px;
+  position: absolute;
+  top: 278px;
+  width: 325px;
+}
+
+.contacts .div-wrapper {
+  background-color: #fbffe1;
+  border-radius: 20px;
+  height: 45px;
+  left: 33px;
+  position: absolute;
+  top: 348px;
+  width: 325px;
+}
+
+.contacts .name-2 {
+  background-color: #fbffe1;
+  border-radius: 20px;
+  height: 45px;
+  left: 33px;
+  position: absolute;
+  top: 418px;
+  width: 325px;
+}
+
+.contacts .name-3 {
+  background-color: #fbffe1;
+  border-radius: 20px;
+  height: 45px;
+  left: 33px;
+  position: absolute;
+  top: 488px;
+  width: 325px;
+}
+
+.contacts .name-4 {
+  background-color: #fbffe1;
+  border-radius: 20px;
+  height: 45px;
+  left: 33px;
+  position: absolute;
+  top: 558px;
+  width: 325px;
+}
+
+.contacts .name-5 {
+  background-color: #fbffe1;
+  border-radius: 20px;
+  height: 45px;
+  left: 33px;
+  position: absolute;
+  top: 628px;
+  width: 325px;
+}
